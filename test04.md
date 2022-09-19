@@ -5,3 +5,5 @@ aaa
 ```c
 printf("test")
 ```
+
+cmd + k → v
