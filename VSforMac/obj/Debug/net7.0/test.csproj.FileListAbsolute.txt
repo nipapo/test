@@ -1,0 +1,15 @@
+/Users/mitsunori/Documents/Git/test/bin/Debug/net7.0/test
+/Users/mitsunori/Documents/Git/test/bin/Debug/net7.0/test.deps.json
+/Users/mitsunori/Documents/Git/test/bin/Debug/net7.0/test.runtimeconfig.json
+/Users/mitsunori/Documents/Git/test/bin/Debug/net7.0/test.dll
+/Users/mitsunori/Documents/Git/test/bin/Debug/net7.0/test.pdb
+/Users/mitsunori/Documents/Git/test/obj/Debug/net7.0/test.csproj.AssemblyReference.cache
+/Users/mitsunori/Documents/Git/test/obj/Debug/net7.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mitsunori/Documents/Git/test/obj/Debug/net7.0/test.AssemblyInfoInputs.cache
+/Users/mitsunori/Documents/Git/test/obj/Debug/net7.0/test.AssemblyInfo.cs
+/Users/mitsunori/Documents/Git/test/obj/Debug/net7.0/test.csproj.CoreCompileInputs.cache
+/Users/mitsunori/Documents/Git/test/obj/Debug/net7.0/test.dll
+/Users/mitsunori/Documents/Git/test/obj/Debug/net7.0/refint/test.dll
+/Users/mitsunori/Documents/Git/test/obj/Debug/net7.0/test.pdb
+/Users/mitsunori/Documents/Git/test/obj/Debug/net7.0/test.genruntimeconfig.cache
+/Users/mitsunori/Documents/Git/test/obj/Debug/net7.0/ref/test.dll
