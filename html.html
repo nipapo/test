@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <title>hello!</title>
+        <style>
+            body {font-size: 14pt; font-weight: plain;}
+            hl {color: white;padding: 5px; font-size: 24pt;background-color: red;}
+        </style>
+    </head>
+    <body>
+        <hl id="title">Hello!</hl>
+        <p id = "msg">this is message.</p>
+    </body>
+    <script>
+        var title = document.querySelector('#title');
+        var msg = document.querySelector('#msg');
+        title.textContent = "DOMの操作";
+        msg.textContent = "DOMは、後からこうして表示を操作";
+    </script>
+</html>
